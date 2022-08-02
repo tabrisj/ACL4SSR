@@ -1,1 +1,3 @@
 DOMAIN-SUFFIX,pgorelease.nianticlabs.com
+DOMAIN-SUFFIX,pgorelease-assets.nianticstatic.com
+DOMAIN-SUFFIX,pushgateway-release.nianticlabs.com
